@@ -33,18 +33,17 @@
 
 <div align="center">
   <samp>💬 Let's connect? Follow me on social media</samp>
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/monique-agata">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36">
   </a>
   <a href="https://www.instagram.com/aghvieira">
     <img src="https://skillicons.dev/icons?i=instagram" height="36">
   </a>
-</p>
-
 </div>
 
 <hr>
