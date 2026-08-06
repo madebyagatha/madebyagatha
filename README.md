@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&pause=1000&color=F73D52&center=true&vCenter=true&width=1000&height=90&lines=Be+welcome+to+my+profile!;I'm+a+front-end+developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;And+also+a+UI+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F73D52&center=true&vCenter=true&width=1000&height=90&lines=Be+welcome+to+my+profile!;I'm+a+front-end+developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;And+also+a+UI+designer)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc2YWVnbXc4azBlb2cyNXUwaDd6MXZ3eXJ1aXV5NzNoM3l0ODM5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hypYQasFsPiEwiABBn/giphy.gif" width="120">
@@ -46,10 +46,9 @@
   </a>
 </div>
 
-<hr>
 <br>
 
 <div align="center">
-<samp>Made with ❤️ by <b>Monique Agata</b></samp>
+<h5>Made with ❤️ by Monique Agata</h5>
 </div>
 
